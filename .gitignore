@@ -1,0 +1,33 @@
+# Build output
+build/
+bin/
+obj/
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.pdb
+*.ilk
+*.exp
+
+# Java
+*.class
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE / editor
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+Thumbs.db
+.DS_Store
